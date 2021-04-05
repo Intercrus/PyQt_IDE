@@ -9,3 +9,8 @@
 * Fast and light IDE
 
 __Of course, this ide is not a competitor to PyCharm or Atom or any other serious project. But the limited functionality also has its advantages: the ide is faster, lighter, and completely transparent.__
+
+## Getting Started
+1. Clone the repository
+2. Run `ide_main.py`
+> After that IDE should start
