@@ -14,3 +14,7 @@ __Of course, this ide is not a competitor to PyCharm or Atom or any other seriou
 1. Clone the repository
 2. Run `ide_main.py`
 > After that IDE should start
+
+## TODO
+* IDE can't read input (**ex**: `name = str(input())`). It runs the code but can't accept input. Need to fix this.
+* 
