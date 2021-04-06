@@ -1,12 +1,12 @@
 # PyQt_IDE
-> Light IDE in Python with PyQt5.
+> Light IDE in Python with PyQt5.  
 > IDE was originally conceived only for working with Python.
 
 ## Demo
 ![demo](https://github.com/Intercrus/PyQt_IDE/blob/master/demo.gif)
 
 ## Features
-* Only pure python and PyQt5
+* Only pure Python and PyQt5
 * Fast and light IDE
 
 __Of course, this ide is not a competitor to PyCharm or Atom or any other serious project. But the limited functionality also has its advantages: the ide is faster, lighter, and completely transparent.__
