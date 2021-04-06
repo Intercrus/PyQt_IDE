@@ -9,7 +9,7 @@
 * Only pure Python and PyQt5
 * Fast and light IDE
 
-__Of course, this IDE is not a competitor to PyCharm or Atom or any other serious project. 
+__Of course, this IDE is not a competitor to PyCharm or Atom or any other serious project.  
 But the limited functionality also has its advantages: this IDE is faster, lighter, and completely transparent.__
 
 ## Getting Started
@@ -30,6 +30,6 @@ But the limited functionality also has its advantages: this IDE is faster, light
 * if possible, implement a debugger.
 * and other useful features.
 
-__I will be pleased if someone wants to participate in the development of this IDE. 
-Unfortunately, at the moment I don't have time to deal with this project. 
+__I will be pleased if someone wants to participate in the development of this IDE.   
+Unfortunately, at the moment I don't have time to deal with this project.   
 If you have questions about the code, write to me in telegram: [@scytheofdeath](http://telegram.me/scytheofdeath)__
