@@ -9,7 +9,7 @@
 * Only pure Python and PyQt5
 * Fast and light IDE
 
-__Of course, this IDE is not a competitor to PyCharm or Atom or any other serious project. But the limited functionality also has its advantages: this ide is faster, lighter, and completely transparent.__
+__Of course, this IDE is not a competitor to PyCharm or Atom or any other serious project. But the limited functionality also has its advantages: this IDE is faster, lighter, and completely transparent.__
 
 ## Getting Started
 1. Clone the repository
