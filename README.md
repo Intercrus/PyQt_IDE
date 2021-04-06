@@ -29,4 +29,4 @@ __Of course, this IDE is not a competitor to PyCharm or Atom or any other seriou
 * if possible, implement a debugger.
 * and other useful features.
 
-__I will be pleased if someone wants to participate in the development of this IDE. Unfortunately, at the moment I do not have time to deal with this project. If you have questions about the code, write to me in telegram: [@scytheofdeath](http://telegram.me/scytheofdeath)__
+__I will be pleased if someone wants to participate in the development of this IDE. Unfortunately, at the moment I don't have time to deal with this project. If you have questions about the code, write to me in telegram: [@scytheofdeath](http://telegram.me/scytheofdeath)__
