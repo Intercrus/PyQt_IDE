@@ -17,4 +17,7 @@ __Of course, this ide is not a competitor to PyCharm or Atom or any other seriou
 
 ## TODO
 * IDE can't read input (**ex**: `name = str(input())`). It runs the code but can't accept input. Need to fix this.
-* 
+* It would be nice to add the ability to choose a theme.
+* Сorrect the font in the code entry field. I think can make it nicer.
+* Make such a bar on the left for more convenient navigation:
+![](https://github.com/Intercrus/PyQt_IDE/blob/master/left_bar_navigation.png)
